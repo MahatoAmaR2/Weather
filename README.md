@@ -26,10 +26,3 @@ It provides real-time weather, 5-day forecasts, favorite cities, search history,
 - [Recharts](https://recharts.org/)
 - [Lucide Icons](https://lucide.dev/)
 
-## Getting Started
-
-### 1. Clone the repository
-
-```sh
-git clone https://github.com/your-username/climate.git
-cd climate
